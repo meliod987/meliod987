@@ -1,7 +1,7 @@
 ### Olá, Sou o mike 👋
 
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando Html5, css3, jS e C sharp
+- 🌱 Estudando Html5, css3, jS, PHP
 - 😄 Pronouns:Ele/dele
 
 ![Mike GitHub stats](https://github-readme-stats.vercel.app/api?username=meliod987&show_icons=true&theme=radical)
